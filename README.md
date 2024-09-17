@@ -1,6 +1,6 @@
 # Sistema Bancário com Python
 
-Projeto desenvolvido no bootcamp da NTT DATA - Engenharia de Dados com Python pela [Digital Innovation One](https://www.dio.me/).
+Projeto desenvolvido no bootcamp da NTT DATA - Engenharia de Dados com Python pela [Digital Innovation One](https://www.dio.me/).<br><br>
 
 ## Desafio
 Criar um sistema bancário com as operações: **depósito**, **saque**, **extrato**, **criar usuário (cliente)**, **criar conta**, **listar usuários** e **listar contas**.
